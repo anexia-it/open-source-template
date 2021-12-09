@@ -1,8 +1,12 @@
+# Changelog
 All notable changes to this project will be documented in this file.
-We follow the [Semantic Versioning 2.0.0](http://semver.org/) format.
 
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## x.y.z - YYYY-MM-DD
+## [Unreleased]
+
+## [x.y.z] - YYYY-MM-DD
 
 ### Added
 - Lorem ipsum dolor sit amet
@@ -15,3 +19,4 @@ We follow the [Semantic Versioning 2.0.0](http://semver.org/) format.
 
 ### Fixed
 - Nothing.
+
